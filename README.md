@@ -22,7 +22,7 @@
 
 
 ### My CV
-<a href="https://drive.google.com/file/d/10GEm8K2nqXkfB8zsy418ssp2PZdenWjL/view?usp=drive_link" target="_blank">
+<a href="https://github.com/andriejwasilew/andriejwasilew/blob/main/CV_QA_Andrei_Vasilev.pdf" target="_blank">
       <img src="https://static.vecteezy.com/system/resources/previews/009/966/221/non_2x/cover-letter-icon-style-vector.jpg" width="40" height="40" alt="CV" />
     </a>
 
