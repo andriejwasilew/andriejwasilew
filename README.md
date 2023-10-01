@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Andrei!
 
-### I'm a self-taught QA Engineer with 9+ years relevant experience in the offline field, closely related to maintaining the quality of the released product.
+### I'm a self-taught QA Engineer with 9+ years relevant experience in the offline field. I'm looking for opportunities to use and increase my knowledge.
 
 ---
 
